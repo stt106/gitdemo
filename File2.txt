@@ -2,3 +2,5 @@ adding file2 to the repository.
 
 
 more stashes...
+
+THis is added in v2.0
